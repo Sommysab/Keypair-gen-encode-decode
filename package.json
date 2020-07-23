@@ -1,0 +1,22 @@
+{
+  "name": "crypto-keypair-encode-decode",
+  "description": "Crypto-keypair-encode-decode",
+  "author": {
+    "name": "Sab-Udeh Sommy"
+  },
+  "version": "0.0.1",
+  "scripts": {
+    "start": "node ./bin/www"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "base-x": "^1.0.1",
+    "big-integer": "^1.6.48",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.3",
+    "create-hash": "^1.1.2",    
+    "dotenv": "^8.2.0",
+    "elliptic": "^6.5.2",    
+    "express": "^4.13.4"
+  }
+}
