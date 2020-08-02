@@ -16,7 +16,7 @@
     "cookie-parser": "^1.4.3",
     "create-hash": "^1.1.2",    
     "dotenv": "^8.2.0",
-    "elliptic": "^6.5.2",    
+    "elliptic": "^6.5.3",    
     "express": "^4.13.4"
   }
 }
