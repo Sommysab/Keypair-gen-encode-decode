@@ -17,6 +17,6 @@
     "create-hash": "^1.1.2",    
     "dotenv": "^8.2.0",
     "elliptic": "^6.5.2",    
-    "express": "^4.13.4"
+    "express": "^4.17.3"
   }
 }
